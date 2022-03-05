@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suveett
+- 👋 Hi, I’m Suveett (https://github.com/Suveett)
 - 👀 I’m specifically interested in Buidling an Appraisal /Social Credit/ 'embedded NFT token locking' Program + Dapp on Solana. In short, a web3 identity solution for non devs, wherein they first get to earn while learning and once they accumulate 50 tokens, then the real Social Game of Referral & slashing starts.   
 - 🌱 I've learnt Solidity (Upgradeable Contracts) and built/dummied with improvements some Dapps on ETH  
 - 💞️ NFT's excite me and so does DeFi. 
