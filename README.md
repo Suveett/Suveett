@@ -4,9 +4,9 @@
 - 💞️ NFT's excite me and so does DeFi. 
 - 📫 How to reach me => 
 Suveett_Crypto(India's Crypto Man on Twitter)
-@Suveett on Telegram 
-@ su.kal crypto#5233 on Discord
-kalrasuveet@gmail.com
+@Suveett on Telegram, 
+@ su.kal crypto#5233 on Discord,
+email : kalrasuveet@gmail.com
 
 Most Fun projects: 
 1. Converting a few SC's into one Upgradeable SC on ETH. 
