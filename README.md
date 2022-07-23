@@ -17,5 +17,5 @@ Most Fun projects:
 6. Cli/ js interactions with SERUM DEX, Mango Markets, Orca helped me improve further on my understand of Solana. 
 7. Also, further enhanced my knowledge of creating any kind of Tx on Solana (not only spl/sol transfers) and later embed them into QR codes using Solana Pay (eg the new nft-mint project accessing a User's camera to send his Image to IPFS/ nft.storage and later passing the metadata to candy machine v2 and minting a Unique NFT to the user wallet)
 7. Created a dummy facebook on solana. 
-8. Another goal is to create an Appraisal /Social Credit/ 'embedded NFT token locking' Program + Dapp on Solana.   
+8. Another goal is to create an Appraisal /Social Credit/ 'embedded NFT token locking' Program + Indexing Dapp on Solana.   
 9. - 👀 Final Goal : Building a Spiritual Metaverse App called Satyug embedded in Unreal Engine 5 , with amaxing in-Game assets and in-Game AMM and IRL utility of Satyug Goverance tokens. 
