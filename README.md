@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Suveett (https://github.com/Suveett)
+- 👋 Hi, I’m Suveett Kalra
   
-- 🌱 I've learnt Solidity (Upgradeable Contracts) and built/dummied w/ improvements for some Dapps on ETH  
+- 🌱 I've learnt Solidity (Upgradeable Contracts) and built/dummied w/ improvements for some Dapps on ETH, but honestly I Love Rust and Anchor much much more. 
 - 💞️ NFT's excite me and so does DeFi. 
-- 📫 How to reach me => 
-Suveett_Crypto(India's Crypto Man on Twitter)
-@Suveett on Telegram, 
-@ su.kal crypto#5233 on Discord,
-email : kalrasuveet@gmail.com
+
+
+Connect with me on all my socials below, or by email : kalrasuveet@gmail.com
+https://linktr.ee/suveett.kalra
+
+
 
 Most Fun projects: 
 1. Converting a few SC's into one Upgradeable SC on ETH. 
