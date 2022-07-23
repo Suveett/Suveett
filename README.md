@@ -4,7 +4,7 @@
 - 💞️ NFT's excite me and so does DeFi. 
 
 
-Connect with me on all my socials below, or by email : kalrasuveet@gmail.com
+Connect with me on all my socials below, or by email : kalrasuveet@gmail.com,     
 https://linktr.ee/suveett.kalra
 
 
