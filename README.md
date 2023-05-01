@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Suveett Kalra
   
-- 🌱 I've learnt Solidity (Upgradeable Contracts) and built/dummied w/ improvements for some Dapps on ETH, but honestly I Love Rust and Anchor much much more now. 
-- 💞️ NFT's excite me and so does DeFi. 
-
+- 🌱 I've learnt Solidity, Javascript, Typescript, HTML, CSS, Rust, Anchor (all self taught)
+- I've done this so I can finally be code literate and build on Bitcoin and Lightning (because mind you I'm a Bitcoin Maxi) 
 
 Connect with me on all my socials below, or by email : kalrasuveet@gmail.com,     
 https://linktr.ee/suveett.kalra
@@ -18,4 +17,4 @@ Most Fun projects:
 7. Also, further enhanced my knowledge of creating any kind of Tx on Solana (not only spl/sol transfers) and later embed them into QR codes using Solana Pay (eg the new nft-mint project accessing a User's camera to send his Image to IPFS/ nft.storage and later passing the metadata to candy machine v2 and minting a Unique NFT to the user wallet)
 7. Created a dummy facebook on solana. 
 8. Another goal is to create an Idenity + Appraisal + Social Credit based 'NFT token locking' Program + Indexing Dapp.   
-9. - 👀 Final Goal : Building a Spiritual Metaverse App called Satyug embedded in Unreal Engine 5 , with in-Game assets and an in-Game AMM and IRL utility of Satyug Goverance tokens, to eventually create what i love the most : The Satyug DAO (a Startup Soceity and finally a Network-State driven by one and only one mission : "Giving")
+9. - 👀 Final Goal : Building a 1 min interactive mini-game App called "Satyug" embedded in Unreal Engine 5 or Unity, BabylonJS optimisied so that it run on browsers with low latency and with in-game collectibles, points and 'Karma' NFT's, on top of BTC. The idea is to connect a billion people to Bitcoin and make them use the blockchain (without realizing they are using it: check it out on https://github.com/Satyug-life/Satyug-website). We've already started working on it (currently on Polygon and using web3 auth integration), but eventually we will build it on Lightning and Nostr (when the ecosystem matures) and with no shitcoins. Just pure utility and fun !!
